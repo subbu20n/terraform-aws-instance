@@ -6,4 +6,4 @@ resource "aws_instance" "this" {
     tags = var.tags
 }
 
- 
+   
